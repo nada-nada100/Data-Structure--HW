@@ -1,5 +1,5 @@
 # Data-Structure--HW
-Data Structures Course Homeworks
+
 Name: NADA BEN ALLAL  ID: 2210213606 
 
 This repository contains my solutions for the Data Structures assignments (HW.01 to HW.10).
